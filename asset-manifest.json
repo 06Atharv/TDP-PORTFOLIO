@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TDP-PORTFOLIO/static/css/main.002499c7.css",
+    "main.js": "/TDP-PORTFOLIO/static/js/main.48e564a1.js",
+    "static/js/453.a11f34ca.chunk.js": "/TDP-PORTFOLIO/static/js/453.a11f34ca.chunk.js",
+    "static/media/herobg.png": "/TDP-PORTFOLIO/static/media/herobg.6228584ec37fd749edd9.png",
+    "static/media/commitBg.png": "/TDP-PORTFOLIO/static/media/commitBg.b84e2016494b742769ba.png",
+    "static/media/TDPLOGO.png": "/TDP-PORTFOLIO/static/media/TDPLOGO.6ddcdb54a3ca8d4a93ba.png",
+    "static/media/fc.png": "/TDP-PORTFOLIO/static/media/fc.8c0c47e0fb2ce636dfd5.png",
+    "static/media/trial.png": "/TDP-PORTFOLIO/static/media/trial.5ea3a37df0a0c0fa4705.png",
+    "static/media/imperial.png": "/TDP-PORTFOLIO/static/media/imperial.c968247b83e1dffb9267.png",
+    "static/media/logo.svg": "/TDP-PORTFOLIO/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TDP-PORTFOLIO/index.html",
+    "main.002499c7.css.map": "/TDP-PORTFOLIO/static/css/main.002499c7.css.map",
+    "main.48e564a1.js.map": "/TDP-PORTFOLIO/static/js/main.48e564a1.js.map",
+    "453.a11f34ca.chunk.js.map": "/TDP-PORTFOLIO/static/js/453.a11f34ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.002499c7.css",
+    "static/js/main.48e564a1.js"
+  ]
+}
